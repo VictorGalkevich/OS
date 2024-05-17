@@ -357,6 +357,7 @@ int main() {
 
         /*writeToFile(otpt, dcdd);*/
 
+
         clock_t end2 = clock();
         double seconds2 = (double)(end2 - start2) / CLOCKS_PER_SEC;
         cout << seconds2 << endl;
